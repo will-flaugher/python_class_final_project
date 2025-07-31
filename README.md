@@ -1,6 +1,6 @@
 # Impact of Price on Product Ratings: Amazon India Analysis
 
-This repository contains the final project for **MBA 720C – Introduction to Python for Business Analytics**, completed by Kwabena Frimpong, Isabel Karst, Paul Nolan, William Flaugher, and Hao Sun.
+This repository contains the final project for UNC's **Introduction to Python for Business Analytics** course, completed by Kwabena Frimpong, Isabel Karst, Paul Nolan, William Flaugher, and Hao Sun.
 
 ## 📌 Project Summary
 
