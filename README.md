@@ -10,11 +10,12 @@ We used Python for data cleaning, exploratory data analysis, hypothesis testing,
 
 ## 📁 Repository Structure
 
+```
 python_class_final_project/
-│
-├── README.md
-├── final_project.ipynb #Jupyter Notebook with data prep, analysis, and results
-└── final_slides.pdf #Slide deck summarizing methodology and findings
+├── README.md                # Project overview and documentation
+├── final_project.ipynb      # Jupyter Notebook with data prep, analysis, and results
+└── final_slides.pdf         # Slide deck summarizing methodology and findings
+```
 
 
 ## ❓ Research Questions
@@ -44,9 +45,9 @@ python_class_final_project/
 
 To install any required libraries:
 
-```bash
+```
 pip install pandas numpy matplotlib seaborn
-
+```
 
 ## 📎 References
 Dataset: Amazon Products – India (Kaggle)
